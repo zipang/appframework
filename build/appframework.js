@@ -1,5 +1,3 @@
-/*! intel-appframework - v2.1.0 - 2014-12-17 */
-
 /**
  * App Framework  query selector class for HTML5 mobile apps on a WebkitBrowser.
  * Since most mobile devices (Android, iOS, webOS) use a WebKit browser, you only need to target one browser.
